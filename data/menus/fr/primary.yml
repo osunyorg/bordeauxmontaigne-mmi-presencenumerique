@@ -29,4 +29,8 @@ items:
     target: "/constituer-une-base/parcours-communication-numerique-et-design-dexperience/"
     kind: page
     children: []
+  - title: Parcours Développement web et dispositifs interactifs
+    target: "/constituer-une-base/parcours-developpement-web-et-dispositifs-interactifs/"
+    kind: page
+    children: []
 
