@@ -45,4 +45,8 @@ items:
   target: "/behance/"
   kind: page
   children: []
+- title: Malt
+  target: "/malt/"
+  kind: page
+  children: []
 
