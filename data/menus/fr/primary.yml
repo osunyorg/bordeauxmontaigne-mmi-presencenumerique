@@ -53,6 +53,10 @@ items:
   target: "/behance/"
   kind: page
   children: []
+- title: Instagram
+  target: "/instagram/"
+  kind: page
+  children: []
 - title: Dribbble
   target: "/dribbble/"
   kind: page
