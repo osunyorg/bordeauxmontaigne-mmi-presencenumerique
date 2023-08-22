@@ -37,14 +37,14 @@ items:
   target: "/github/"
   kind: page
   children: []
-- title: Linkedin
-  target: "/linkedin/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
   children:
+  - title: Linkedin
+    target: "/tous-les-outils/linkedin/"
+    kind: page
+    children: []
   - title: Vimeo
     target: "/tous-les-outils/vimeo/"
     kind: page
