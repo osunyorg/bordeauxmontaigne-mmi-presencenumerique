@@ -45,18 +45,18 @@ items:
   target: "/medium/"
   kind: page
   children: []
-- title: Vimeo
-  target: "/vimeo/"
-  kind: page
-  children: []
-- title: Behance
-  target: "/behance/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
   children:
+  - title: Vimeo
+    target: "/tous-les-outils/vimeo/"
+    kind: page
+    children: []
+  - title: Behance
+    target: "/tous-les-outils/behance/"
+    kind: page
+    children: []
   - title: Instagram
     target: "/tous-les-outils/instagram/"
     kind: page
