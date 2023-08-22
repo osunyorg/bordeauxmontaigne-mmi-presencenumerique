@@ -24,7 +24,11 @@ items:
   - title: Création numérique
     target: "/constituer-une-base/parcours-creation-numerique/"
     kind: page
-    children: []
+    children:
+    - title: Github
+      target: "/constituer-une-base/parcours-creation-numerique/github/"
+      kind: page
+      children: []
   - title: Communication numérique et design d’expérience
     target: "/constituer-une-base/parcours-communication-numerique-et-design-dexperience/"
     kind: page
@@ -33,10 +37,6 @@ items:
     target: "/constituer-une-base/parcours-developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
-- title: Github
-  target: "/github/"
-  kind: page
-  children: []
 - title: Linkedin
   target: "/linkedin/"
   kind: page
