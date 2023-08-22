@@ -33,4 +33,8 @@ items:
     target: "/constituer-une-base/parcours-developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
+- title: Github
+  target: "/github/"
+  kind: page
+  children: []
 
