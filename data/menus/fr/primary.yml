@@ -57,16 +57,16 @@ items:
   target: "/instagram/"
   kind: page
   children: []
-- title: Dribbble
-  target: "/dribbble/"
-  kind: page
-  children: []
-- title: Malt
-  target: "/malt/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
-  children: []
+  children:
+  - title: Dribbble
+    target: "/tous-les-outils/dribbble/"
+    kind: page
+    children: []
+  - title: Malt
+    target: "/tous-les-outils/malt/"
+    kind: page
+    children: []
 
