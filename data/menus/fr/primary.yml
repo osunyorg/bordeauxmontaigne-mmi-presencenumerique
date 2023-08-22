@@ -65,4 +65,8 @@ items:
   target: "/malt/"
   kind: page
   children: []
+- title: Tous les outils
+  target: "/tous-les-outils/"
+  kind: page
+  children: []
 
