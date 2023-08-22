@@ -37,12 +37,12 @@ items:
   target: "/github/"
   kind: page
   children: []
-- title: Medium
-  target: "/medium/"
-  kind: page
-  children: []
 - title: Linkedin
   target: "/linkedin/"
+  kind: page
+  children: []
+- title: Medium
+  target: "/medium/"
   kind: page
   children: []
 - title: Vimeo
