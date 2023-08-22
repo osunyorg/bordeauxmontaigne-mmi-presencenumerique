@@ -17,7 +17,7 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Constituer une base
+- title: Parcours
   target: "/constituer-une-base/"
   kind: page
   children:
