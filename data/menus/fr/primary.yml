@@ -41,16 +41,16 @@ items:
   target: "/linkedin/"
   kind: page
   children: []
-- title: Medium
-  target: "/medium/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
   children:
   - title: Vimeo
     target: "/tous-les-outils/vimeo/"
+    kind: page
+    children: []
+  - title: Medium
+    target: "/tous-les-outils/medium/"
     kind: page
     children: []
   - title: Behance
