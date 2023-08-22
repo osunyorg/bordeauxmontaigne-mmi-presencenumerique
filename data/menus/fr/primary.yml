@@ -21,7 +21,7 @@ items:
   target: "/constituer-une-base/"
   kind: page
   children:
-  - title: Parcours Création numérique
+  - title: Création numérique
     target: "/constituer-une-base/parcours-creation-numerique/"
     kind: page
     children: []
