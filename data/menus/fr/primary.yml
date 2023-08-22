@@ -73,4 +73,8 @@ items:
   target: "/site-web/"
   kind: page
   children: []
+- title: X (Twitter)
+  target: "/twitter-x/"
+  kind: page
+  children: []
 
