@@ -41,6 +41,10 @@ items:
   target: "/medium/"
   kind: page
   children: []
+- title: Linkedin
+  target: "/linkedin/"
+  kind: page
+  children: []
 - title: Behance
   target: "/behance/"
   kind: page
