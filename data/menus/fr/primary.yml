@@ -25,7 +25,7 @@ items:
     target: "/constituer-une-base/parcours-creation-numerique/"
     kind: page
     children: []
-  - title: Parcours Communication numérique et design d’expérience
+  - title: Communication numérique et design d’expérience
     target: "/constituer-une-base/parcours-communication-numerique-et-design-dexperience/"
     kind: page
     children: []
