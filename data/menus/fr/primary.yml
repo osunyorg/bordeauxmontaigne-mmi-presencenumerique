@@ -33,16 +33,16 @@ items:
     target: "/constituer-une-base/parcours-developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
-- title: Github
-  target: "/github/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
   children:
   - title: Linkedin
     target: "/tous-les-outils/linkedin/"
+    kind: page
+    children: []
+  - title: Github
+    target: "/tous-les-outils/github/"
     kind: page
     children: []
   - title: Vimeo
