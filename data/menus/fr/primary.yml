@@ -53,14 +53,14 @@ items:
   target: "/behance/"
   kind: page
   children: []
-- title: Instagram
-  target: "/instagram/"
-  kind: page
-  children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
   children:
+  - title: Instagram
+    target: "/tous-les-outils/instagram/"
+    kind: page
+    children: []
   - title: Dribbble
     target: "/tous-les-outils/dribbble/"
     kind: page
