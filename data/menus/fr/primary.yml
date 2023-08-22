@@ -45,6 +45,10 @@ items:
   target: "/behance/"
   kind: page
   children: []
+- title: Dribbble
+  target: "/dribbble/"
+  kind: page
+  children: []
 - title: Malt
   target: "/malt/"
   kind: page
