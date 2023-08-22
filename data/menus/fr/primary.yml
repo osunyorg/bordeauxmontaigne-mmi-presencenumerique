@@ -45,6 +45,10 @@ items:
   target: "/linkedin/"
   kind: page
   children: []
+- title: Vimeo
+  target: "/vimeo/"
+  kind: page
+  children: []
 - title: Behance
   target: "/behance/"
   kind: page
