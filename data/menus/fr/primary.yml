@@ -65,14 +65,14 @@ items:
     target: "/tous-les-outils/dribbble/"
     kind: page
     children: []
+  - title: Site web
+    target: "/tous-les-outils/site-web/"
+    kind: page
+    children: []
   - title: Malt
     target: "/tous-les-outils/malt/"
     kind: page
     children: []
-- title: Site web
-  target: "/site-web/"
-  kind: page
-  children: []
 - title: X (Twitter)
   target: "/twitter-x/"
   kind: page
