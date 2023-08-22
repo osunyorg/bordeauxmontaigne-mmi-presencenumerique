@@ -37,4 +37,8 @@ items:
   target: "/github/"
   kind: page
   children: []
+- title: Medium
+  target: "/medium/"
+  kind: page
+  children: []
 
