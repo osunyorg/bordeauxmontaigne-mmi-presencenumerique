@@ -21,12 +21,12 @@ items:
   target: "/tous-les-outils/"
   kind: page
   children:
-  - title: Linkedin
-    target: "/tous-les-outils/linkedin/"
-    kind: page
-    children: []
   - title: Github
     target: "/tous-les-outils/github/"
+    kind: page
+    children: []
+  - title: Linkedin
+    target: "/tous-les-outils/linkedin/"
     kind: page
     children: []
   - title: Vimeo
