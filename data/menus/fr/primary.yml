@@ -61,8 +61,4 @@ items:
     target: "/tous-les-outils/malt/"
     kind: page
     children: []
-- title: Menu
-  target: ''
-  kind: blank
-  children: []
 
