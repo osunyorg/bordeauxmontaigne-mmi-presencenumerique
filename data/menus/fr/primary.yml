@@ -21,8 +21,16 @@ items:
   target: "/tous-les-outils/"
   kind: page
   children:
+  - title: Behance
+    target: "/tous-les-outils/behance/"
+    kind: page
+    children: []
   - title: Github
     target: "/tous-les-outils/github/"
+    kind: page
+    children: []
+  - title: Instagram
+    target: "/tous-les-outils/instagram/"
     kind: page
     children: []
   - title: Linkedin
@@ -35,14 +43,6 @@ items:
     children: []
   - title: Vimeo
     target: "/tous-les-outils/vimeo/"
-    kind: page
-    children: []
-  - title: Behance
-    target: "/tous-les-outils/behance/"
-    kind: page
-    children: []
-  - title: Instagram
-    target: "/tous-les-outils/instagram/"
     kind: page
     children: []
   - title: Dribbble
