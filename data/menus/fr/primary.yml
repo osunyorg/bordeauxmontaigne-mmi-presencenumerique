@@ -41,6 +41,10 @@ items:
     target: "/tous-les-outils/linkedin/"
     kind: page
     children: []
+  - title: Malt
+    target: "/tous-les-outils/malt/"
+    kind: page
+    children: []
   - title: Medium
     target: "/tous-les-outils/medium/"
     kind: page
@@ -55,10 +59,6 @@ items:
     children: []
   - title: X (Twitter)
     target: "/tous-les-outils/twitter-x/"
-    kind: page
-    children: []
-  - title: Malt
-    target: "/tous-les-outils/malt/"
     kind: page
     children: []
 
