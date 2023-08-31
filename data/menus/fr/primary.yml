@@ -45,4 +45,8 @@ items:
     target: "/tous-les-outils/malt/"
     kind: page
     children: []
+- title: Parcours
+  target: "/parcours/"
+  kind: page
+  children: []
 
