@@ -48,5 +48,9 @@ items:
 - title: Parcours
   target: "/parcours/"
   kind: page
-  children: []
+  children:
+  - title: Création numérique
+    target: "/parcours/creation-numerique/"
+    kind: page
+    children: []
 
