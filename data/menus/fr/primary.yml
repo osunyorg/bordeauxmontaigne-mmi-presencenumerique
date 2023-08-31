@@ -25,6 +25,10 @@ items:
     target: "/tous-les-outils/behance/"
     kind: page
     children: []
+  - title: Dribbble
+    target: "/tous-les-outils/dribbble/"
+    kind: page
+    children: []
   - title: Github
     target: "/tous-les-outils/github/"
     kind: page
@@ -43,10 +47,6 @@ items:
     children: []
   - title: Vimeo
     target: "/tous-les-outils/vimeo/"
-    kind: page
-    children: []
-  - title: Dribbble
-    target: "/tous-les-outils/dribbble/"
     kind: page
     children: []
   - title: Site web
