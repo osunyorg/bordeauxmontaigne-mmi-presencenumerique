@@ -1,6 +1,22 @@
 ---
 title: Menu principal
 items:
+- title: Parcours
+  target: "/parcours/"
+  kind: page
+  children:
+  - title: Création numérique
+    target: "/parcours/creation-numerique/"
+    kind: page
+    children: []
+  - title: Développement web et dispositifs interactifs
+    target: "/parcours/developpement-web-et-dispositifs-interactifs/"
+    kind: page
+    children: []
+  - title: Communication numérique et design d’expérience
+    target: "/parcours/communication-numerique-et-design-dexperience/"
+    kind: page
+    children: []
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
@@ -43,22 +59,6 @@ items:
     children: []
   - title: Malt
     target: "/tous-les-outils/malt/"
-    kind: page
-    children: []
-- title: Parcours
-  target: "/parcours/"
-  kind: page
-  children:
-  - title: Création numérique
-    target: "/parcours/creation-numerique/"
-    kind: page
-    children: []
-  - title: Développement web et dispositifs interactifs
-    target: "/parcours/developpement-web-et-dispositifs-interactifs/"
-    kind: page
-    children: []
-  - title: Communication numérique et design d’expérience
-    target: "/parcours/communication-numerique-et-design-dexperience/"
     kind: page
     children: []
 
