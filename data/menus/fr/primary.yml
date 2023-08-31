@@ -53,4 +53,8 @@ items:
     target: "/parcours/creation-numerique/"
     kind: page
     children: []
+  - title: Développement web et dispositifs interactifs
+    target: "/parcours/developpement-web-et-dispositifs-interactifs/"
+    kind: page
+    children: []
 
