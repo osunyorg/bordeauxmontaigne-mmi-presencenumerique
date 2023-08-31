@@ -4,7 +4,47 @@ items:
 - title: Tous les outils
   target: "/tous-les-outils/"
   kind: page
-  children: []
+  children:
+  - title: Linkedin
+    target: "/tous-les-outils/linkedin/"
+    kind: page
+    children: []
+  - title: Github
+    target: "/tous-les-outils/github/"
+    kind: page
+    children: []
+  - title: Vimeo
+    target: "/tous-les-outils/vimeo/"
+    kind: page
+    children: []
+  - title: Medium
+    target: "/tous-les-outils/medium/"
+    kind: page
+    children: []
+  - title: Behance
+    target: "/tous-les-outils/behance/"
+    kind: page
+    children: []
+  - title: Instagram
+    target: "/tous-les-outils/instagram/"
+    kind: page
+    children: []
+  - title: Dribbble
+    target: "/tous-les-outils/dribbble/"
+    kind: page
+    children: []
+  - title: Site web
+    target: "/tous-les-outils/site-web/"
+    kind: page
+    children: []
+  - title: X (Twitter)
+    target: "/tous-les-outils/twitter-x/"
+    kind: page
+    children: []
+  - title: Malt
+    target: "/tous-les-outils/malt/"
+    kind: page
+    children: []
 - title: Parcours
   target: "/parcours/"
   kind: page
