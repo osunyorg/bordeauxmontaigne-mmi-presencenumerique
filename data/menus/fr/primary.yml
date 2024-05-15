@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Communication numérique et design d’expérience
-    target: "/parcours/communication-numerique-et-design-dexperience/"
+    target: "/parcours/strategie-de-communication-numerique-et-design-d-experience/"
     kind: page
     children: []
   - title: Création numérique
