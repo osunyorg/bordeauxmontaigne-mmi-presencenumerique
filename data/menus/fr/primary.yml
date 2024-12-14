@@ -9,17 +9,21 @@ items:
     target: "/parcours/strategie-de-communication-numerique-et-design-d-experience/"
     kind: page
     children: []
+    path: "/pages/parcours/strategie-de-communication-numerique-et-design-d-experience"
     file: content/fr/pages/parcours/strategie-de-communication-numerique-et-design-d-experience/_index.html
   - title: Création numérique
     target: "/parcours/creation-numerique/"
     kind: page
     children: []
+    path: "/pages/parcours/creation-numerique"
     file: content/fr/pages/parcours/creation-numerique/_index.html
   - title: Développement web et dispositifs interactifs
     target: "/parcours/developpement-web-et-dispositifs-interactifs/"
     kind: page
     children: []
+    path: "/pages/parcours/developpement-web-et-dispositifs-interactifs"
     file: content/fr/pages/parcours/developpement-web-et-dispositifs-interactifs/_index.html
+  path: "/pages/parcours"
   file: content/fr/pages/parcours/_index.html
 - title: Tous les outils
   target: "/tous-les-outils/"
@@ -29,51 +33,62 @@ items:
     target: "/tous-les-outils/behance/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/behance"
     file: content/fr/pages/tous-les-outils/behance/_index.html
   - title: Dribbble
     target: "/tous-les-outils/dribbble/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/dribbble"
     file: content/fr/pages/tous-les-outils/dribbble/_index.html
   - title: Github
     target: "/tous-les-outils/github/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/github"
     file: content/fr/pages/tous-les-outils/github/_index.html
   - title: Instagram
     target: "/tous-les-outils/instagram/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/instagram"
     file: content/fr/pages/tous-les-outils/instagram/_index.html
   - title: Linkedin
     target: "/tous-les-outils/linkedin/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/linkedin"
     file: content/fr/pages/tous-les-outils/linkedin/_index.html
   - title: Malt
     target: "/tous-les-outils/malt/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/malt"
     file: content/fr/pages/tous-les-outils/malt/_index.html
   - title: Medium
     target: "/tous-les-outils/medium/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/medium"
     file: content/fr/pages/tous-les-outils/medium/_index.html
   - title: Site web
     target: "/tous-les-outils/site-web/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/site-web"
     file: content/fr/pages/tous-les-outils/site-web/_index.html
   - title: Vimeo
     target: "/tous-les-outils/vimeo/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/vimeo"
     file: content/fr/pages/tous-les-outils/vimeo/_index.html
   - title: X (Twitter)
     target: "/tous-les-outils/twitter-x/"
     kind: page
     children: []
+    path: "/pages/tous-les-outils/twitter-x"
     file: content/fr/pages/tous-les-outils/twitter-x/_index.html
+  path: "/pages/tous-les-outils"
   file: content/fr/pages/tous-les-outils/_index.html
 
