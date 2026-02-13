@@ -2,108 +2,151 @@
 title: Menu principal
 items:
 - title: Parcours
+  slug: parcours
   target: "/parcours/"
   kind: page
   new_tab: false
   children:
   - title: Communication numérique et design d’expérience
+    slug: communication-numerique-et-design-d-experience
     target: "/parcours/strategie-de-communication-numerique-et-design-d-experience/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/parcours/strategie-de-communication-numerique-et-design-d-experience"
     file: content/fr/pages/parcours/strategie-de-communication-numerique-et-design-d-experience/_index.html
   - title: Création numérique
+    slug: creation-numerique
     target: "/parcours/creation-numerique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/parcours/creation-numerique"
     file: content/fr/pages/parcours/creation-numerique/_index.html
   - title: Développement web et dispositifs interactifs
+    slug: developpement-web-et-dispositifs-interactifs
     target: "/parcours/developpement-web-et-dispositifs-interactifs/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/parcours/developpement-web-et-dispositifs-interactifs"
     file: content/fr/pages/parcours/developpement-web-et-dispositifs-interactifs/_index.html
+  descendants_targets:
+  - "/parcours/creation-numerique/"
+  - "/parcours/developpement-web-et-dispositifs-interactifs/"
+  - "/parcours/strategie-de-communication-numerique-et-design-d-experience/"
   path: "/pages/parcours"
   file: content/fr/pages/parcours/_index.html
 - title: Tous les outils
+  slug: tous-les-outils
   target: "/tous-les-outils/"
   kind: page
   new_tab: false
   children:
   - title: Behance
+    slug: behance
     target: "/tous-les-outils/behance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/behance"
     file: content/fr/pages/tous-les-outils/behance/_index.html
   - title: Dribbble
+    slug: dribbble
     target: "/tous-les-outils/dribbble/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/dribbble"
     file: content/fr/pages/tous-les-outils/dribbble/_index.html
   - title: Github
+    slug: github
     target: "/tous-les-outils/github/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/github"
     file: content/fr/pages/tous-les-outils/github/_index.html
   - title: Instagram
+    slug: instagram
     target: "/tous-les-outils/instagram/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/instagram"
     file: content/fr/pages/tous-les-outils/instagram/_index.html
   - title: Linkedin
+    slug: linkedin
     target: "/tous-les-outils/linkedin/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/linkedin"
     file: content/fr/pages/tous-les-outils/linkedin/_index.html
   - title: Malt
+    slug: malt
     target: "/tous-les-outils/malt/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/malt"
     file: content/fr/pages/tous-les-outils/malt/_index.html
   - title: Medium
+    slug: medium
     target: "/tous-les-outils/medium/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/medium"
     file: content/fr/pages/tous-les-outils/medium/_index.html
   - title: Site web
+    slug: site-web
     target: "/tous-les-outils/site-web/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/site-web"
     file: content/fr/pages/tous-les-outils/site-web/_index.html
   - title: Vimeo
+    slug: vimeo
     target: "/tous-les-outils/vimeo/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/vimeo"
     file: content/fr/pages/tous-les-outils/vimeo/_index.html
   - title: X (Twitter)
+    slug: x-twitter
     target: "/tous-les-outils/twitter-x/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/tous-les-outils/twitter-x"
     file: content/fr/pages/tous-les-outils/twitter-x/_index.html
+  descendants_targets:
+  - "/tous-les-outils/behance/"
+  - "/tous-les-outils/dribbble/"
+  - "/tous-les-outils/github/"
+  - "/tous-les-outils/instagram/"
+  - "/tous-les-outils/linkedin/"
+  - "/tous-les-outils/malt/"
+  - "/tous-les-outils/medium/"
+  - "/tous-les-outils/site-web/"
+  - "/tous-les-outils/twitter-x/"
+  - "/tous-les-outils/vimeo/"
   path: "/pages/tous-les-outils"
   file: content/fr/pages/tous-les-outils/_index.html
 
