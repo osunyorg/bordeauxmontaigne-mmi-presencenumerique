@@ -13,3 +13,52 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/site-web/"
+to = "/tous-les-outils/site-web/"
+
+[[redirects]]
+from = "/equipe-editoriale/"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/parcours/communication-numerique-et-design-dexperience/"
+to = "/parcours/strategie-de-communication-numerique-et-design-d-experience/"
+
+[[redirects]]
+from = "/medium/"
+to = "/tous-les-outils/medium/"
+
+[[redirects]]
+from = "/github/"
+to = "/tous-les-outils/github/"
+
+[[redirects]]
+from = "/twitter-x/"
+to = "/tous-les-outils/twitter-x/"
+
+[[redirects]]
+from = "/malt/"
+to = "/tous-les-outils/malt/"
+
+[[redirects]]
+from = "/behance/"
+to = "/tous-les-outils/behance/"
+
+[[redirects]]
+from = "/instagram/"
+to = "/tous-les-outils/instagram/"
+
+[[redirects]]
+from = "/vimeo/"
+to = "/tous-les-outils/vimeo/"
+
+[[redirects]]
+from = "/dribbble/"
+to = "/tous-les-outils/dribbble/"
+
+[[redirects]]
+from = "/linkedin/"
+to = "/tous-les-outils/linkedin/"
+
